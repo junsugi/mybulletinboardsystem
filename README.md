@@ -1,6 +1,6 @@
 # Untitled
 
-![badge](https://img.shields.io/badge/nodejs-v14.15.4-green?logo=node.js)![badge](https://img.shields.io/badge/npm-v4.17.1-blue?logo=npm)![badge](https://img.shields.io/badge/ReactNative-v2.0.1-lightblue?logo=react)![badge](https://img.shields.io/badge/server-vscode-blue?logo=visual Studio Code) or ![badge](https://img.shields.io/badge/client-Atom-green?logo=atom)
+![badge](https://img.shields.io/badge/nodejs-v14.15.4-green?logo=node.js)![badge](https://img.shields.io/badge/npm-v4.17.1-blue?logo=npm)![badge](https://img.shields.io/badge/ReactNative-v2.0.1-lightblue?logo=react)![badge](https://img.shields.io/badge/server-vscode-blue) or ![badge](https://img.shields.io/badge/client-Atom-green?logo=atom)
 
 ## Getting Started Node.js
 
