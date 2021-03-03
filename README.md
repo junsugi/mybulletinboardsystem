@@ -1,6 +1,6 @@
-# Untitled
+# Muyaho Project
 
-![badge](https://img.shields.io/badge/nodejs-v14.15.4-green?logo=node.js)![badge](https://img.shields.io/badge/npm-v4.17.1-blue?logo=npm)![badge](https://img.shields.io/badge/ReactNative-v2.0.1-lightblue?logo=react)![badge](https://img.shields.io/badge/server-vscode-blue) or ![badge](https://img.shields.io/badge/client-Atom-green?logo=atom)
+![badge](https://img.shields.io/badge/nodejs-v14.15.4-green?logo=node.js)![badge](https://img.shields.io/badge/npm-v4.17.1-blue?logo=npm)![badge](https://img.shields.io/badge/ReactNative-v2.0.1-lightblue?logo=react)![badge](https://img.shields.io/badge/vscode-server-blue?logo=visual-studio) or ![badge](https://img.shields.io/badge/atom-client-green?logo=atom)
 
 ## Getting Started Node.js
 
@@ -14,11 +14,13 @@ git clone https://github.com/junsugi/mybulletinboardsystem.git
 
 3. ```npm install --save```를 입력해서 node module 들을 다운받는다.
 
-4. 개발 모드일 땐 nodemon 사용을 위해서 ```npm run dev```를 입력한다. (reload가 가능해진다.)
+4. 개발 모드일 땐 nodemon 사용을 위해서 ```npm run dev```를 입력한다. (Quick reload가 가능해진다.)
 
    (운영일 땐 ```npm run start```)
 
 5. ```http://localhost:3000```을 웹 브라우저에 쳐서 "hello world" 가 뜨는지 확인한다.
+
+   (포트는 index.js에서 원하는 숫자로 변경할 수 있다.)
 
 
 
